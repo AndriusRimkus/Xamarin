@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+
 using Android.App;
 using Android.Content;
 using Android.OS;
@@ -12,13 +13,13 @@ using Android.Widget;
 
 namespace TaskyAndroid
 {
-	[Activity (Label = "Testukas")]			
-	public class Testukas : Activity
+	[Activity (Label = "NaujasActivity")]			
+	public class NaujasActivity : Activity
 	{
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
-			//ddddddddddddddddddddsdddddddd
+
 			// Create your application here
 		}
 	}
