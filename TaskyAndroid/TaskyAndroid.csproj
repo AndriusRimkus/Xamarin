@@ -55,6 +55,7 @@
     <Compile Include="Adapters\TaskListAdapter.cs" />
     <Compile Include="Screens\TaskDetailsScreen.cs" />
     <Compile Include="Screens\Testukas.cs" />
+    <Compile Include="Screens\TusciasFragmentas.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
