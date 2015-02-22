@@ -57,6 +57,7 @@
     <Compile Include="Screens\Testukas.cs" />
     <Compile Include="Screens\TusciasFragmentas.cs" />
     <Compile Include="Screens\NaujasActivity.cs" />
+    <Compile Include="Screens\TTTTT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
