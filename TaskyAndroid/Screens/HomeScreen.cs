@@ -20,7 +20,7 @@ namespace TaskyAndroid.Screens {
 			base.OnCreate (bundle);
 			
 
-			View titleView = Window.FindViewById(Android.Resource.Id.Title);
+			View titaleView = Window.FindViewById(Android.Resource.Id.Title);
 			if (titleView != null) {
 			  IViewParent parent = titleView.Parent;
 			  if (parent != null && (parent is View)) {
