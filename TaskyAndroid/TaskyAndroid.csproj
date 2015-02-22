@@ -54,6 +54,7 @@
     <Compile Include="Screens\HomeScreen.cs" />
     <Compile Include="Adapters\TaskListAdapter.cs" />
     <Compile Include="Screens\TaskDetailsScreen.cs" />
+    <Compile Include="Screens\Testukas.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
